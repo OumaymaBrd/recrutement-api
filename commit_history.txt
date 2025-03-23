@@ -125,3 +125,4 @@
 // Modification pour commit: Création des migrations pour les tables principales
 // Modification pour commit: Création des modèles User, Annonce et Candidature
 // Modification pour commit: Création du modèle Notification
+// Modification pour commit: Implémentation du pattern Repository
