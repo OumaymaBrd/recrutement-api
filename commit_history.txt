@@ -39,3 +39,4 @@
 // Modification pour commit: Ajout de la documentation Swagger
 // Modification pour commit: Finalisation du README avec documentation détaillée
 // Modification pour commit: Initialisation du projet RecrutementAPI
+// Modification pour commit: Création de la structure de base du projet
