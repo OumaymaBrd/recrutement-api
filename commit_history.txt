@@ -1,2 +1,3 @@
 // Modification pour commit: Initialisation du projet RecrutementAPI
 // Modification pour commit: Création de la structure de base du projet
+// Modification pour commit: Configuration initiale de Laravel
