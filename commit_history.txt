@@ -91,3 +91,4 @@
 // Modification pour commit: Création du service de gestion des annonces
 // Modification pour commit: Création du service de gestion des candidatures
 // Modification pour commit: Création du service de notifications
+// Modification pour commit: Création du service de statistiques
