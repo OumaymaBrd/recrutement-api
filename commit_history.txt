@@ -173,3 +173,4 @@
 // Modification pour commit: Création du service de notifications
 // Modification pour commit: Création du service de statistiques
 // Modification pour commit: Implémentation des contrôleurs API
+// Modification pour commit: Configuration des routes API
