@@ -64,3 +64,4 @@
 // Modification pour commit: Installation et configuration de Laravel Sanctum
 // Modification pour commit: Création des migrations pour les tables principales
 // Modification pour commit: Création des modèles User, Annonce et Candidature
+// Modification pour commit: Création du modèle Notification
