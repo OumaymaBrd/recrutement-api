@@ -134,3 +134,4 @@
 // Modification pour commit: Création du service de statistiques
 // Modification pour commit: Implémentation des contrôleurs API
 // Modification pour commit: Configuration des routes API
+// Modification pour commit: Implémentation du middleware de vérification des rôles
