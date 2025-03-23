@@ -108,3 +108,4 @@
 // Modification pour commit: Implémentation du pattern Repository
 // Modification pour commit: Création des repositories pour User, Annonce et Candidature
 // Modification pour commit: Création du service d'authentification
+// Modification pour commit: Création du service de gestion des annonces
