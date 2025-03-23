@@ -37,3 +37,4 @@
 // Modification pour commit: Implémentation du middleware de vérification des rôles
 // Modification pour commit: Configuration des providers et injection de dépendances
 // Modification pour commit: Ajout de la documentation Swagger
+// Modification pour commit: Finalisation du README avec documentation détaillée
