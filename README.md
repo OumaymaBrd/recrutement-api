@@ -1,18 +1,4 @@
-Thought for 1 second### 🚀 API de Gestion de Recrutements
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### 🚀 API de Gestion de Recrutements
 Une API REST complète pour la gestion des recrutements, permettant aux recruteurs de publier des annonces et aux candidats de postuler. Développée avec Laravel 10 et Sanctum pour l'authentification.
 
 ## 📋 Table des matières
@@ -314,7 +300,7 @@ http://localhost:8000/api/documentation
 
 ## 👨‍💻 Contributeurs
 
-- [Votre Nom](https://github.com/votre-nom) - Développeur principal
+- [Oumayma Bramid](https://github.com/OumaymaBrd) - Développeur principal
 
 
 ## 📄 Licence
