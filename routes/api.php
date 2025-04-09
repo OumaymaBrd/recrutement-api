@@ -13,6 +13,7 @@ use App\Http\Controllers\API\UserController;
 |--------------------------------------------------------------------------
 */
 
+
 // Routes d'authentification
 Route::prefix('auth')->group(function () {
     Route::post('/register', [AuthController::class, 'register']);
@@ -52,3 +53,7 @@ Route::prefix('stats')->group(function () {
     Route::get('/recruteur', [StatistiqueController::class, 'getRecruteurStats']);
     Route::get('/globales', [StatistiqueController::class, 'getGlobalStats']);
 });
+
+
+
+// Routes pour les fichier 

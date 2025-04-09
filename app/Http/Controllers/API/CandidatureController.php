@@ -29,8 +29,7 @@ class CandidatureController extends Controller
         if ($user->isCandidat()) {
             $candidatures = $this->candidatureService->getCandidaturesByUser($user->id);
         } else {
-            // Pour les recruteurs, on récupère toutes les candidatures de leurs annonces
-            // Cette logique pourrait être déplacée dans le service
+          
             $candidatures = [];
             foreach ($user->annonces as $annonce) {
                 $candidatures = array_merge(
